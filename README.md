@@ -1,2 +1,3 @@
 ![example branch parameter]
-(https://www.codewars.com/users/AqWh1te/badges/large)
+(https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
